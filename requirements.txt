@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymupdf
+chromadb
+sentence-transformers
+yfinance
+transformers
+requests
+finnhub-python
+together
+tiktoken
+streamlit 
+requests
